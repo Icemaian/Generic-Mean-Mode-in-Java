@@ -3,7 +3,7 @@
  * Note: Do not attempt to treat odd and even number of items differently.
  *
  CSIS 312 Assignment 6
-* @Isaac Craig & Nick Romnano
+* @Isaac Craig
 * 
 * - I have not discussed the source code in my program with anyone other than my instructor’s approved human sources (i.e. programming partner).
 * - I have not used source code obtained from another student, or any other unauthorized source, either modified or unmodified.
